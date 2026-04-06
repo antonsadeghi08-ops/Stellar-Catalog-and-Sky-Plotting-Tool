@@ -47,13 +47,13 @@ This project was created to:
 ## Project Structure
 
 
-> 1k_ritare.py # Plotting the sky
-> 2k_observationell_input.py # Coordinate conversion
-> 3k_manuell_input.py # Manual input (degrees / HMS)
-> 4k_editor.py # Edit saved stars
-> 5k_rad_input.py # Import from text rows
-> sparade_koordinater.txt # Local star catalog
-> README.md
+- 1k_ritare.py # Plotting the sky
+- 2k_observationell_input.py # Coordinate conversion
+- 3k_manuell_input.py # Manual input (degrees / HMS)
+- 4k_editor.py # Edit saved stars
+- 5k_rad_input.py # Import from text rows
+- sparade_koordinater.txt # Local star catalog
+- README.md
 
 
 ---
